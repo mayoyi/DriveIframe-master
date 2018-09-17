@@ -1,0 +1,21 @@
+{
+  "name": "DriveIframe",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "driveIframe.html",
+    "path": "",
+    "menuName": {
+      "en": "DriveIframe"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "driveIframe",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
